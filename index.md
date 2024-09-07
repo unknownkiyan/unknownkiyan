@@ -1,5 +1,5 @@
 ---
-layout: default
+Nasir Broughton Profolio
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
@@ -10,9 +10,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Professional Statement
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Hi, my name is Nasir Broughton, an Proactive and goal orientated, entry level security analyst who maintains a solution oriented mindset to successfully overcome obstacles and setbacks. My meticulous and decisive skills gained through the military, sets a perfect foundation to continue learning in tech!
 
 ## Header 2
 
